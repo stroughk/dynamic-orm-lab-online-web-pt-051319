@@ -9,5 +9,5 @@ class InteractiveRecord
 
 
 
-  
+
 end
